@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - main A c program that print a line to the standard a e
+ * main - A c program that prints a line to the standard e
 rror
-* Return 1 (success)
-*/
+ * Return 1 (Success)
+ */
 int main(void)
 {
 	fput("and that place of art is useful\" - Dora Kor
 par, 2015-10-19\n", stdout);
-return (0);
+return (1);
 }
    

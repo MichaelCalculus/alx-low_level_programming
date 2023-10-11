@@ -2,11 +2,11 @@
 
 /**
  * main - this is the main put function
- * Return: 0 (Success)
+ * Return: 0
  */
 int main(void)
 {
-    	puts("Programming is like building a multili
-ngual puzzle");
-	 return (0);
+	puts("\"programming is like buildi
+ng a multilingual puzzle");
+	return (0);
 }
